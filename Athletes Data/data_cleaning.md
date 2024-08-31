@@ -1,8 +1,8 @@
-## 1. Dataset Description
+## Dataset Description
 The dataset **athletes.xlsx** contains various information about the athletes participating in the Paris 2024 Olympic Summer Games.
 
 
-## 2. Preliminary Data Cleaning (Power Query)
+## Preliminary Data Cleaning (Power Query)
 Firstly, we will remove the athlete name columns: **name**, **name_short** and **name_tv**; as these columns are unlikely to provide interesting insights.
 
 ![athlete name columns](.\Images\AD1.PNG)
